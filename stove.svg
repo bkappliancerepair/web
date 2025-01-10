@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.4102" height="119.1167" viewBox="0 0 29.4773 31.5163">
+  <g transform="translate(291.9061 -198.1019)">
+    <rect width="24.8471" height="23.4711" x="-289.591" y="205.4857" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+    <rect width="19.1363" height="12.1345" x="-286.7357" y="213.9952" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+    <g fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" transform="translate(.0487 -.6223)">
+      <rect width="2.6931" height="2.6931" x="-286.7844" y="209.0942" paint-order="stroke fill markers" rx="1.3466" ry="1.3465"/>
+      <rect width="2.6931" height="2.6931" x="-270.3412" y="209.0942" paint-order="stroke fill markers" rx="1.3466" ry="1.3465"/>
+      <rect width="2.6931" height="2.6931" x="-281.2203" y="209.0942" paint-order="stroke fill markers" rx="1.3466" ry="1.3465"/>
+      <rect width="2.6931" height="2.6931" x="-275.9051" y="209.0942" paint-order="stroke fill markers" rx="1.3466" ry="1.3465"/>
+    </g>
+    <g fill="#0d6cff" transform="rotate(180 -.284 -.6682)">
+      <rect width="7.421" height="1.3229" x="278.417" y="-205.3259" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+      <rect width="7.421" height="1.3229" x="267.3612" y="-205.3259" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+    </g>
+  </g>
+</svg>

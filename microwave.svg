@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.4102" height="119.1167" viewBox="0 0 29.4773 31.5163">
+  <g transform="translate(204.0575 -199.6257)">
+    <rect width="28.1544" height="17.5443" x="-203.396" y="212.9362" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+    <rect width="18.0027" height="1.3229" x="-230.7097" y="-184.5483" fill="#0d6cff" paint-order="stroke fill markers" rx="0" ry="0" transform="rotate(-90)"/>
+    <rect width="5.1279" height="1.3229" x="219.1445" y="185.8462" fill="#0d6cff" paint-order="stroke fill markers" rx=".6615" ry=".6615" transform="rotate(90)"/>
+    <g transform="translate(-.568 .3007)">
+      <rect width="3.5435" height="3.5435" x="-180.649" y="215.7912" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="1.7718" ry="1.7718"/>
+    </g>
+    <g fill="#0d6cff" transform="translate(.1171 -.1336)">
+      <rect width="5.1279" height="1.3229" x="-182.1262" y="222.4536" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+      <rect width="5.1279" height="1.3229" x="-182.1262" y="224.6979" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+    </g>
+  </g>
+</svg>

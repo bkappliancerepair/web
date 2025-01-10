@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60"
+   height="60"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="1.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.3906433"
+     inkscape:cx="-181.04048"
+     inkscape:cy="10.809304"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     font-weight="700"
+     word-spacing="0"
+     id="g12"
+     transform="matrix(1.2632021,0,0,1.2632021,-7.8960621,-7.8960621)"
+     style="font-weight:700;font-family:'Gotham Pro';word-spacing:0">
+    <g
+       style="line-height:1.25;-inkscape-font-specification:'Adobe Fan Heiti Std'"
+       id="g6">
+      <path
+         d="m 16.0449,29.1847 h 2.6022 V 17.1152 h -1.7976 l -3.441,1.0271 0.5478,2.1572 2.0886,-0.5136 z m 10.2527,0.2054 c 2.7563,0 4.554,-1.6092 4.554,-4.143 0,-2.7392 -1.8662,-3.869 -4.1945,-3.869 -0.6677,0 -1.0956,0.0855 -1.575,0.2054 l 0.137,-2.0716 h 5.1017 v -2.3111 h -7.3616 l -0.3424,5.9063 1.5237,1.0101 c 0.565,-0.2397 1.2498,-0.4451 2.003,-0.4451 1.2498,0 2.1229,0.5992 2.1229,1.6264 0,1.0957 -0.7704,1.6949 -2.003,1.6949 -1.0615,0 -1.9517,-0.4794 -2.859,-1.3012 l -1.5922,1.9004 c 1.1641,1.1128 2.568,1.7975 4.4854,1.7975 z M 36.396,23.1927 c 1.7462,0 2.9275,-1.3867 2.9275,-3.0644 0,-1.712 -1.1642,-3.0645 -2.8933,-3.0645 -1.7462,0 -2.9275,1.3696 -2.9275,3.0645 0,1.712 1.1642,3.0644 2.8933,3.0644 z m -1.695,5.992 h 2.0374 l 8.7483,-11.984 h -2.0373 z m 9.0565,0.137 c 1.7463,0 2.9276,-1.3867 2.9276,-3.0645 0,-1.712 -1.1642,-3.0645 -2.8933,-3.0645 -1.7463,0 -2.9275,1.3696 -2.9275,3.0645 0,1.712 1.1641,3.0645 2.8932,3.0645 z m -7.3273,-7.6869 c -0.6848,0 -1.13,-0.7019 -1.13,-1.5065 0,-0.8218 0.3767,-1.5066 1.0958,-1.5066 0.6848,0 1.1299,0.702 1.1299,1.5066 0,0.8046 -0.3767,1.5065 -1.0957,1.5065 z m 7.3616,6.129 c -0.6848,0 -1.13,-0.702 -1.13,-1.5066 0,-0.8218 0.3767,-1.5066 1.0957,-1.5066 0.6848,0 1.13,0.702 1.13,1.5066 0,0.8046 -0.3767,1.5066 -1.0957,1.5066 z"
+         aria-label="15%"
+         font-size="21.5233"
+         letter-spacing="1.0762"
+         style="font-size:21.52330017px;-inkscape-font-specification:'Gotham Pro Bold';letter-spacing:1.07620001;fill:#ffbc29"
+         id="path4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="line-height:1.25;-inkscape-font-specification:'Adobe Fan Heiti Std'"
+       id="g10">
+      <path
+         d="m 18.9788,42.9362 c 3.3345,0 5.7581,-2.5163 5.7581,-5.5883 0,-3.103 -2.3928,-5.5884 -5.7272,-5.5884 -3.3345,0 -5.7582,2.5163 -5.7582,5.5884 0,3.1029 2.3928,5.5883 5.7273,5.5883 z m 0.0309,-2.1921 c -1.9143,0 -3.2728,-1.5437 -3.2728,-3.3962 0,-1.8834 1.3276,-3.3963 3.2419,-3.3963 1.9142,0 3.2727,1.5438 3.2727,3.3963 0,1.8833 -1.3276,3.3962 -3.2418,3.3962 z m 8.608,2.0069 h 2.3774 v -4.1836 h 5.156 v -2.1612 h -5.156 V 34.106 h 5.8507 v -2.1612 h -8.2281 z m 10.9027,0 h 2.3773 v -4.1836 h 5.1561 v -2.1612 h -5.156 V 34.106 h 5.8507 v -2.1612 h -8.2281 z"
+         aria-label="OFF"
+         font-size="15.4374"
+         letter-spacing=".7719"
+         style="font-size:15.43739986px;-inkscape-font-specification:'Gotham Pro Bold';letter-spacing:0.7719;fill:#ffbc29;fill-opacity:1"
+         id="path8"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.4102" height="119.1167" viewBox="0 0 29.4773 31.5163">
+  <g transform="translate(-90.2614 -132.7418)">
+    <g transform="translate(412.36 -64.5664)">
+      <rect width="25.213" height="22.4229" x="-319.9665" y="205.7402" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+      <rect width="17.2037" height="1.3229" x="-222.8738" y="-307.3438" fill="#0d6cff" paint-order="stroke fill markers" rx="0" ry="0" transform="rotate(-90 -.3388 .3388)"/>
+    </g>
+    <rect width="24.8063" height="1.3229" x="-117.4031" y="-158.6358" fill="#0d6cff" paint-order="stroke fill markers" rx="0" ry="0" transform="scale(-1)"/>
+    <rect width="11.3095" height="1.3229" x="-110.6548" y="-161.4222" fill="#0d6cff" paint-order="stroke fill markers" rx=".6615" ry=".6615" transform="scale(-1)"/>
+    <g stroke="#0d6cff" transform="translate(14.8136 9.5196)">
+      <g style="line-height:1.25;-inkscape-font-specification:'Adobe Fan Heiti Std'">
+        <path fill="#0d6cff" stroke-width=".2646" d="M101.5113 129.8472q.9133 0 1.5893-.6133.1187-.1088.1253-.2704.007-.1616-.1022-.2803-.1088-.122-.2704-.1286-.1616-.007-.2803.1023-.4484.4088-1.0617.4088-.6496 0-1.1112-.4616t-.4616-1.1112q0-.6529.4616-1.1145t1.1112-.4616q.5375 0 .9595.3264.1286.0956.2902.0758.1582-.0198.2572-.1484.0989-.1286.079-.2901-.023-.1583-.1483-.2572-.6364-.488-1.4376-.488-.9728 0-1.6652.6924-.6891.6892-.6891 1.6652 0 .9727.6891 1.6651.6924.6892 1.6652.6892z" aria-label="C" font-family="Moon" font-size="6.7529" font-weight="700" letter-spacing=".3376" style="-inkscape-font-specification:'Moon Bold'" word-spacing="0"/>
+      </g>
+      <rect width="1.8234" height="1.8234" x="96.2042" y="125.466" fill="none" stroke-linecap="round" stroke-width=".926" paint-order="stroke fill markers" rx=".9117" ry=".9117"/>
+    </g>
+    <g fill="#0d6cff" transform="rotate(-90 -.059 .059)">
+      <rect width="3.8445" height="1.3229" x="-151.4971" y="101.4801" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+      <rect width="3.8445" height="1.3229" x="-151.4971" y="107.4332" paint-order="stroke fill markers" rx=".6615" ry=".6615"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.4102" height="119.1167" viewBox="0 0 29.4773 31.5163">
+  <g transform="translate(327.1767 -198.1019)">
+    <g transform="translate(-5.0781 .7936)">
+      <rect width="22.7089" height="30.1714" x="-318.7144" y="197.9916" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+      <g fill="#0d6cff" transform="translate(-.6776)">
+        <rect width="31.1374" height="1.3229" x="-228.4456" y="-307.2196" paint-order="stroke fill markers" rx="0" ry="0" transform="rotate(-90 -.0621 .0621)"/>
+        <rect width="5.2476" height="1.3229" x="-215.7012" y="-304.4854" paint-order="stroke fill markers" rx=".6615" ry=".6615" transform="rotate(-90)"/>
+        <rect width="5.2476" height="1.3229" x="-215.7012" y="-310.2023" paint-order="stroke fill markers" rx=".6615" ry=".6615" transform="rotate(-90)"/>
+      </g>
+    </g>
+    <rect width="2.2747" height="2.2747" x="-305.3137" y="200.7544" fill="#0d6cff" paint-order="stroke fill markers" rx="10.7424" ry="2.2747"/>
+  </g>
+</svg>

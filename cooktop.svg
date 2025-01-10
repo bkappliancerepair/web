@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.4102" height="119.1167" viewBox="0 0 29.4773 31.5163">
+  <g transform="translate(250.8893 -198.1019)">
+    <rect width="24.8471" height="29.0858" x="-248.5742" y="199.8709" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="2.1931" ry="2.1216"/>
+    <rect width="8.221" height="8.221" x="-245.3784" y="206.922" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="4.1105" ry="4.1105" transform="translate(-.269 -4.3098)"/>
+    <rect width="8.221" height="8.221" x="-234.875" y="213.6207" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="4.1105" ry="4.1105"/>
+    <rect width="3.3545" height="3.3545" x="-232.4417" y="216.0539" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="1.6773" ry="1.6773"/>
+    <rect width="6.5506" height="6.5506" x="-244.8121" y="214.4559" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="3.2753" ry="3.2753"/>
+    <g fill="#0d6cff" transform="translate(4.1463)">
+      <rect width="7.421" height="1.3229" x="233.3711" y="-226.7518" paint-order="stroke fill markers" rx=".6615" ry=".6615" transform="scale(-1)"/>
+      <rect width="2.2747" height="2.2747" x="-247.2227" y="224.953" paint-order="stroke fill markers" rx="10.7424" ry="2.2747"/>
+      <rect width="2.2747" height="2.2747" x="-244.1825" y="224.953" paint-order="stroke fill markers" rx="10.7424" ry="2.2747"/>
+    </g>
+    <rect width="6.5506" height="6.5506" x="-234.0397" y="203.4474" fill="none" stroke="#0d6cff" stroke-linecap="square" stroke-width="1.3229" paint-order="stroke fill markers" rx="3.2753" ry="3.2753"/>
+  </g>
+</svg>
